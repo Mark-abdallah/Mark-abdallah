@@ -1,22 +1,37 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="" />
-  Hey! Nice to see you.
-</h1>
-
+<!-- Animated wave header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Senior+Full-Stack+Developer;.NET+%7C+Angular+%7C+Spring+Boot;Building+reliable+web+apps+and+REST+APIs" alt="Senior Full-Stack Developer: .NET, Angular, Spring Boot" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Mark&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Product-Oriented%20Senior%20Full-Stack%20Developer&descSize=20&descAlignY=58" alt="Hey, I'm Mark: product-oriented senior full-stack developer" />
 </p>
 
-## About me
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="" />
+  Nice to see you
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="waving hand" />
+</h1>
 
-I'm **Mark**, a senior full-stack developer from **Egypt** <img src="https://user-images.githubusercontent.com/83455664/225403988-340d0316-8339-416d-8f0d-6ea469eb7e10.png" width="13" alt="Egypt flag" />.
+<!-- Animated typing line -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Product-Oriented+Full-Stack+Developer;I+build+products%2C+not+just+features;.NET+%7C+Angular+%7C+Spring+Boot;From+user+problem+to+shipped+solution;REST+APIs+%7C+Oracle+DB+%7C+Azure" alt="Product-oriented full-stack developer. I build products, not just features." />
+</p>
 
-- 🧩 I build end-to-end web applications: Angular on the front, .NET or Spring Boot on the back
-- 🔌 I design and ship REST APIs backed by Oracle DB and Entity Framework
-- ☁️ I deploy and run workloads on Azure
-- 🤝 Open to collaboration and interesting projects
+<!-- Animated coding illustration -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Coding.gif" width="380" alt="Animated developer coding" />
+</p>
 
-## Things I code with
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="" /> About me
+
+I'm **Mark**, a product-oriented senior full-stack developer from **Egypt** <img src="https://user-images.githubusercontent.com/83455664/225403988-340d0316-8339-416d-8f0d-6ea469eb7e10.png" width="13" alt="Egypt flag" />.
+
+I care about the product as much as the code: I start from the user's problem, weigh the business impact, and ship what moves the product forward.
+
+- 🎯 **Product mindset**: I ask "why" before "how" and measure success by outcomes, not lines of code
+- 🧩 **End to end**: Angular on the front, .NET or Spring Boot on the back
+- 🔌 **APIs and data**: REST APIs backed by Oracle DB and Entity Framework
+- ☁️ **Cloud**: deploying and running workloads on Azure
+- 🤝 **Open to** collaboration and interesting products
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" alt="" /> Things I code with
 
 **Frontend**
 
@@ -51,16 +66,23 @@ I'm **Mark**, a senior full-stack developer from **Egypt** <img src="https://use
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-## GitHub stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="" /> GitHub activity
 
-<p>
-  <img height="165" alt="Mark's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mark-abdallah&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-abdallah&layout=compact&hide_border=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mark-abdallah&theme=tokyonight&hide_border=true" alt="Mark's GitHub streak" />
 </p>
 
-## Contact
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark-abdallah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Mark's contribution graph" />
+</p>
 
-<p>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" alt="" /> Contact
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=520&lines=Have+a+product+idea%3F+Let's+talk.;Always+happy+to+connect." alt="Have a product idea? Let's talk." />
+</p>
+
+<p align="center">
   <a href="mailto:markabdalah033@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-markabdalah033%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B20%20128%20282%200907-2EA44F?style=for-the-badge" />
 </p>
@@ -70,7 +92,12 @@ I'm **Mark**, a senior full-stack developer from **Egypt** <img src="https://use
 
 ## Where to find me
 
-<p>
+<p align="center">
   <a href="https://github.com/Mark-abdallah" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mark-abdallah-0a7719168/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
+</p>
+
+<!-- Animated wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" />
 </p>
