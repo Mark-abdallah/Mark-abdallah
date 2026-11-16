@@ -54,26 +54,37 @@ I care about the product as much as the code: I start from the user's problem, w
   <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="SignalR" src="https://img.shields.io/badge/-SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="REST APIs" src="https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square" />
 </p>
 
-**Database, cloud and tools**
+**Data, caching, search and messaging**
 
 <p>
   <img alt="Oracle DB" src="https://img.shields.io/badge/-Oracle%20DB-F80000?style=flat-square" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+</p>
+
+**Cloud and DevOps**
+
+<p>
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="IIS" src="https://img.shields.io/badge/-IIS-0078D4?style=flat-square" />
+  <img alt="CI/CD with GitHub Actions" src="https://img.shields.io/badge/-CI%2FCD%20%C2%B7%20GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="" /> GitHub activity
+**Collaboration**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mark-abdallah&theme=tokyonight&hide_border=true" alt="Mark's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark-abdallah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Mark's contribution graph" />
+<p>
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square" />
 </p>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" alt="" /> Contact
